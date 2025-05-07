@@ -1,0 +1,163 @@
+
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "rooms": "Habitaciones",
+    "gallery": "Galería",
+    "contact": "Contacto",
+    "bookNow": "Reservar"
+  },
+  "languages": {
+    "en": "Inglés",
+    "fr": "Francés",
+    "es": "Español"
+  },
+  "home": {
+    "hero": {
+      "welcomeTitle": "Bienvenido a Riad Serenidad",
+      "welcomeSubtitle": "Experimenta la magia de Marrakech en nuestra tradicional casa marroquí",
+      "bookNow": "Reservar Ahora"
+    },
+    "search": {
+      "title": "Encuentra tu estancia perfecta",
+      "checkIn": "Entrada",
+      "checkOut": "Salida",
+      "guests": "Huéspedes",
+      "roomType": "Tipo de habitación",
+      "priceRange": "Rango de precio",
+      "search": "Buscar",
+      "allRooms": "Todas las habitaciones",
+      "standard": "Estándar",
+      "deluxe": "Deluxe",
+      "suite": "Suite"
+    },
+    "about": {
+      "title": "Sobre Nuestro Riad",
+      "description": "Ubicado en el corazón de la antigua Medina, Riad Serenidad ofrece un refugio tranquilo en medio del vibrante bullicio de Marrakech. Nuestra casa del siglo XVIII meticulosamente restaurada combina la artesanía tradicional marroquí con comodidades modernas.",
+      "readMore": "Leer Más"
+    },
+    "featuredRooms": {
+      "title": "Habitaciones Destacadas",
+      "viewAll": "Ver Todas las Habitaciones"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "breakfast": "Desayuno Tradicional",
+      "breakfastDesc": "Comienza tu día con auténticos sabores marroquíes",
+      "pool": "Piscina en la Azotea",
+      "poolDesc": "Relájate y disfruta de vistas panorámicas de la ciudad",
+      "spa": "Spa y Hammam",
+      "spaDesc": "Disfruta de tratamientos tradicionales y relajación",
+      "tours": "Tours Guiados",
+      "toursDesc": "Explora Marrakech con nuestros guías experimentados"
+    },
+    "contact": {
+      "title": "Ponte en Contacto",
+      "description": "¿Tienes preguntas o estás listo para reservar tu estancia? Contacta con nosotros directamente o utiliza nuestro sencillo formulario.",
+      "contactUs": "Contáctanos"
+    }
+  },
+  "about": {
+    "title": "Nuestra Historia",
+    "subtitle": "Una auténtica experiencia marroquí",
+    "history": "Construido en el siglo XVIII como la casa de un comerciante, nuestro riad ha sido restaurado con cariño para preservar su encanto histórico mientras ofrece comodidades modernas. Cada habitación presenta detalles artesanales realizados por artesanos locales.",
+    "experience": "En Riad Serenidad, nuestro objetivo es proporcionar una experiencia inmersiva de la hospitalidad marroquí. Desde nuestro desayuno tradicional en el patio hasta el té de menta en la terraza de la azotea, cada momento está diseñado para crear recuerdos duraderos.",
+    "team": "Nuestro Equipo",
+    "teamDesc": "Nuestro personal está formado por marroquíes locales que se enorgullecen de compartir su cultura y asegurarse de que tu estancia sea perfecta en todos los aspectos."
+  },
+  "gallery": {
+    "title": "Galería de Fotos",
+    "subtitle": "Descubre la belleza de nuestro riad",
+    "categories": {
+      "all": "Todo",
+      "rooms": "Habitaciones",
+      "common": "Áreas Comunes",
+      "dining": "Comedor",
+      "exterior": "Exterior"
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Estamos aquí para ayudarte con tus preguntas o necesidades de reserva",
+    "address": "Dirección",
+    "addressValue": "123 Derb El Cadi, Medina, Marrakech, Marruecos",
+    "phone": "Teléfono",
+    "phoneValue": "+212 524 123 456",
+    "email": "Correo Electrónico",
+    "emailValue": "info@riadserenidad.com",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Tu Correo Electrónico",
+      "message": "Tu Mensaje",
+      "submit": "Enviar Mensaje"
+    },
+    "success": "Gracias por tu mensaje. Nos pondremos en contacto contigo pronto."
+  },
+  "rooms": {
+    "bookNow": "Reservar Ahora",
+    "viewDetails": "Ver Detalles",
+    "perNight": "por noche",
+    "amenities": "Comodidades",
+    "availability": "Verificar Disponibilidad",
+    "details": {
+      "size": "Tamaño",
+      "capacity": "Capacidad",
+      "bed": "Cama",
+      "bathroom": "Baño",
+      "view": "Vista"
+    }
+  },
+  "roomTypes": {
+    "standard": {
+      "title": "Habitación Estándar",
+      "description": "Nuestras acogedoras habitaciones estándar ofrecen una decoración marroquí auténtica con todas las comodidades esenciales para una estancia agradable.",
+      "size": "25m²",
+      "capacity": "2 Adultos",
+      "bed": "Cama Queen",
+      "bathroom": "Baño privado con ducha",
+      "view": "Patio",
+      "price": "120"
+    },
+    "deluxe": {
+      "title": "Habitación Deluxe",
+      "description": "Espaciosas y elegantemente decoradas, nuestras habitaciones deluxe presentan artesanía tradicional y una zona de estar.",
+      "size": "35m²",
+      "capacity": "2 Adultos",
+      "bed": "Cama King",
+      "bathroom": "Baño privado con bañera",
+      "view": "Jardín",
+      "price": "180"
+    },
+    "suite": {
+      "title": "Suite Real",
+      "description": "Nuestro alojamiento más lujoso ofrece áreas de estar separadas, comodidades premium y vistas impresionantes.",
+      "size": "50m²",
+      "capacity": "3 Adultos",
+      "bed": "Cama King",
+      "bathroom": "Baño privado con bañera y ducha",
+      "view": "Medina y Montañas Atlas",
+      "price": "250"
+    }
+  },
+  "amenities": {
+    "wifi": "WiFi Gratuito",
+    "ac": "Aire Acondicionado",
+    "breakfast": "Desayuno Incluido",
+    "toiletries": "Artículos de Aseo de Lujo",
+    "safe": "Caja Fuerte",
+    "tv": "TV Satélite",
+    "minibar": "Minibar",
+    "terrace": "Terraza Privada"
+  },
+  "footer": {
+    "about": "Acerca de Riad Serenidad",
+    "aboutText": "Un auténtico riad marroquí en el corazón de la histórica Medina de Marrakech, que ofrece lujo tradicional con comodidades modernas.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Información de Contacto",
+    "newsletter": "Boletín de Noticias",
+    "newsletterText": "Suscríbete a nuestro boletín para ofertas especiales.",
+    "subscribe": "Suscribirse",
+    "copyright": "© 2025 Riad Serenidad. Todos los derechos reservados."
+  }
+}

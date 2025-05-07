@@ -1,0 +1,163 @@
+
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "rooms": "Rooms",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "French",
+    "es": "Spanish"
+  },
+  "home": {
+    "hero": {
+      "welcomeTitle": "Welcome to Riad Serenity",
+      "welcomeSubtitle": "Experience the magic of Marrakech in our traditional Moroccan house",
+      "bookNow": "Book Now"
+    },
+    "search": {
+      "title": "Find Your Perfect Stay",
+      "checkIn": "Check-in",
+      "checkOut": "Check-out",
+      "guests": "Guests",
+      "roomType": "Room Type",
+      "priceRange": "Price Range",
+      "search": "Search Rooms",
+      "allRooms": "All Rooms",
+      "standard": "Standard",
+      "deluxe": "Deluxe",
+      "suite": "Suite"
+    },
+    "about": {
+      "title": "About Our Riad",
+      "description": "Nestled in the heart of the ancient Medina, Riad Serenity offers a peaceful haven amid the vibrant bustle of Marrakech. Our meticulously restored 18th-century home combines traditional Moroccan craftsmanship with modern comforts.",
+      "readMore": "Read More"
+    },
+    "featuredRooms": {
+      "title": "Featured Rooms",
+      "viewAll": "View All Rooms"
+    },
+    "services": {
+      "title": "Our Services",
+      "breakfast": "Traditional Breakfast",
+      "breakfastDesc": "Start your day with authentic Moroccan flavors",
+      "pool": "Rooftop Pool",
+      "poolDesc": "Relax and enjoy panoramic views of the city",
+      "spa": "Spa & Hammam",
+      "spaDesc": "Indulge in traditional treatments and relaxation",
+      "tours": "Guided Tours",
+      "toursDesc": "Explore Marrakech with our knowledgeable guides"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "description": "Have questions or ready to book your stay? Contact us directly or use our simple form.",
+      "contactUs": "Contact Us"
+    }
+  },
+  "about": {
+    "title": "Our Story",
+    "subtitle": "An authentic Moroccan experience",
+    "history": "Built in the 18th century as a merchant's home, our riad has been lovingly restored to preserve its historic charm while offering modern comforts. Each room features handcrafted details by local artisans.",
+    "experience": "At Riad Serenity, we aim to provide an immersive experience of Moroccan hospitality. From our traditional breakfast in the courtyard to mint tea on the rooftop terrace, every moment is designed to create lasting memories.",
+    "team": "Our Team",
+    "teamDesc": "Our staff consists of local Marrakechis who take pride in sharing their culture and ensuring your stay is perfect in every way."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Discover the beauty of our riad",
+    "categories": {
+      "all": "All",
+      "rooms": "Rooms",
+      "common": "Common Areas",
+      "dining": "Dining",
+      "exterior": "Exterior"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help with your questions or booking needs",
+    "address": "Address",
+    "addressValue": "123 Derb El Cadi, Medina, Marrakech, Morocco",
+    "phone": "Phone",
+    "phoneValue": "+212 524 123 456",
+    "email": "Email",
+    "emailValue": "info@riadserenity.com",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "success": "Thank you for your message. We will contact you shortly."
+  },
+  "rooms": {
+    "bookNow": "Book Now",
+    "viewDetails": "View Details",
+    "perNight": "per night",
+    "amenities": "Amenities",
+    "availability": "Check Availability",
+    "details": {
+      "size": "Room Size",
+      "capacity": "Capacity",
+      "bed": "Bed",
+      "bathroom": "Bathroom",
+      "view": "View"
+    }
+  },
+  "roomTypes": {
+    "standard": {
+      "title": "Standard Room",
+      "description": "Our cozy standard rooms offer authentic Moroccan decor with all essential comforts for a pleasant stay.",
+      "size": "25m²",
+      "capacity": "2 Adults",
+      "bed": "Queen Size",
+      "bathroom": "En-suite with shower",
+      "view": "Courtyard",
+      "price": "120"
+    },
+    "deluxe": {
+      "title": "Deluxe Room",
+      "description": "Spacious and elegantly appointed, our deluxe rooms feature traditional craftwork and a sitting area.",
+      "size": "35m²",
+      "capacity": "2 Adults",
+      "bed": "King Size",
+      "bathroom": "En-suite with bathtub",
+      "view": "Garden",
+      "price": "180"
+    },
+    "suite": {
+      "title": "Royal Suite",
+      "description": "Our most luxurious accommodation offers separate living areas, premium amenities and stunning views.",
+      "size": "50m²",
+      "capacity": "3 Adults",
+      "bed": "King Size",
+      "bathroom": "En-suite with bathtub and shower",
+      "view": "Medina and Atlas Mountains",
+      "price": "250"
+    }
+  },
+  "amenities": {
+    "wifi": "Free WiFi",
+    "ac": "Air Conditioning",
+    "breakfast": "Breakfast Included",
+    "toiletries": "Luxury Toiletries",
+    "safe": "In-room Safe",
+    "tv": "Satellite TV",
+    "minibar": "Minibar",
+    "terrace": "Private Terrace"
+  },
+  "footer": {
+    "about": "About Riad Serenity",
+    "aboutText": "An authentic Moroccan riad in the heart of Marrakech's historic Medina, offering traditional luxury with modern comforts.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Info",
+    "newsletter": "Newsletter",
+    "newsletterText": "Subscribe to our newsletter for special offers.",
+    "subscribe": "Subscribe",
+    "copyright": "© 2025 Riad Serenity. All rights reserved."
+  }
+}

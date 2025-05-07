@@ -1,13 +1,31 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+
+import { useEffect } from 'react';
+import Layout from '@/components/Layout';
+import HeroCarousel from '@/components/home/HeroCarousel';
+import SearchBar from '@/components/home/SearchBar';
+import AboutPreview from '@/components/home/AboutPreview';
+import FeaturedRooms from '@/components/home/FeaturedRooms';
+import Services from '@/components/home/Services';
+import ContactPreview from '@/components/home/ContactPreview';
+import { useTranslation } from 'react-i18next';
 
 const Index = () => {
+  const { t } = useTranslation();
+  
+  // Update page title based on language
+  useEffect(() => {
+    document.title = `Riad Serenity - ${t('navigation.home')}`;
+  }, [t]);
+
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-gray-600">Start building your amazing project here!</p>
-      </div>
-    </div>
+    <Layout>
+      <HeroCarousel />
+      <SearchBar />
+      <AboutPreview />
+      <FeaturedRooms />
+      <Services />
+      <ContactPreview />
+    </Layout>
   );
 };
 
